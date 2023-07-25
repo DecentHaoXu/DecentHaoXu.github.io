@@ -3,7 +3,7 @@ title: Welcome to Hao Xu page
 feature_text: |
   ## Hao Xu
   A personal website for Hao Xu CV and ongoing researches
-feature_image: "https://www.gla.ac.uk/media/Media_334539_smxx.jpg"
+feature_image: "https://webbox.lafayette.edu/~reiterc/misc_frac/swa120sp.gif"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
